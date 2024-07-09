@@ -1,0 +1,5 @@
+2024-07-09 14:58:13,167 - INFO : Optimization started.
+2024-07-09 14:58:13,168 - INFO : [ONNX-SIM] Clean ONNX Model input node.
+2024-07-09 14:58:14,460 - INFO : [ONNX2TFLITE] Start converting to TFLITE.
+2024-07-09 14:58:34,300 - INFO : [ONNX2TFLITE] TFLITE conversion is done.
+2024-07-09 14:58:34,302 - INFO : Model optimization done.
