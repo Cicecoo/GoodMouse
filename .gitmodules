@@ -1,0 +1,6 @@
+[submodule "GoodMouse-E2dge-Workspace"]
+	path = GoodMouse-E2dge-Workspace
+	url = https://github.com/Cicecoo/GoodMouse-E2dge-Workspace.git
+[submodule "GoodMouse-PC-Workspace"]
+	path = GoodMouse-PC-Workspace
+	url = https://github.com/Cicecoo/GoodMouse-PC-Workspace.git
